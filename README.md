@@ -1,64 +1,45 @@
-# Hi there! I'm Dinh Van My 👋
+# Hello World! I'm Dinh Van My 👋
 
-I'm a passionate **Flutter Developer** and a final-year Computer Science student at **National Economics University**, Hanoi, Vietnam. I enjoy building intuitive and responsive mobile applications, with a focus on delivering seamless user experiences. Eager to grow as a developer, I’m always exploring new technologies and refining my skills through hands-on projects.
-
----
+I'm a **Flutter Developer** and final-year Computer Science student at **National Economics University**, Hanoi, Vietnam. With a strong passion for mobile app development, I focus on crafting intuitive, responsive, and high-performance applications. Through academic projects, self-study, and internships, I’m eager to grow my skills and contribute to innovative Flutter solutions.
 
 ## 🌟 About Me
-- 🎓 **Education**: Computer Science Major, National Economics University
-- 💻 **Role**: Flutter Intern/Fresher
-- 🌱 **Currently Learning**: Advanced Flutter, AI integration, and Microservices
-- 📫 **Contact Me**: [astronautkaitoumy@gmail.com](mailto:astronautkaitoumy@gmail.com)
-- ⚡ **Fun Fact**: I love playing chess and listening to classical music!
-
----
+- 🎓 **Education**: B.S. in Computer Science, National Economics University
+- 💻 **Role**: Flutter Intern / Fresher
+- 🌱 **Currently Learning**: Advanced Flutter, AI Integration, Microservices
+- 📫 **Email**: [astronautkaitoumy@gmail.com](mailto:astronautkaitoumy@gmail.com)
+- 📍 **Location**: Hanoi, Vietnam
+- ⚡ **Fun Fact**: I’m a chess enthusiast and classical music lover!
 
 ## 🛠️ Skills
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+- **Programming**: Dart,Java,Kotlin
+- **Concepts**: UI/UX Design, MVVP Architecture, Clean Architecture
+- **Tools**: GetX, API Integration, Git, Bloc
+- **Soft Skills**: Problem-Solving, Team Collaboration, Self-Learning
 
-- **Languages**: Java, MySQL
-- **Concepts**: UI/UX Design, Microservices, Self-Studying
-- **Soft Skills**: Problem-solving, Teamwork, Continuous Learning
-
----
-
-## 🚀 Projects
-
-### 🎵 Music App Flutter
-- **Description**: A music streaming app built with Flutter to enhance user experience and performance.
-- **Tech Stack**: Flutter, Dart, MVVP Architecture, API Integration
-- **Achievements**:
-  - Improved app responsiveness with efficient API calls.
-  - Optimized load times and resolved bugs to meet project timelines.
-
-### 🎮 Gaming-Social App (Graduation Thesis)
-- **Description**: A cross-platform mobile app combining mini-games with a social platform.
-- **Tech Stack**: Flutter, Firebase (Authentication & Firestore), Gemini API
+## 🚀 Featured Projects
+### 🎮 [Gaming-Social App (Graduation Thesis)](https://github.com/DinhVanMy/tic_tac_toe_legends_app)
+- **Description**: A cross-platform app combining mini-games with social networking features.
+- **Tech Stack**: Flutter, Firebase (Auth & Firestore), Gemini API, GetX
 - **Highlights**:
-  - Built with GetX for state management, dependency injection, and navigation.
-  - Integrated real-time messaging, voice calls, and geolocation features.
-  - Added a chatbot for automated user support using Gemini API.
-  - Delivered custom animations and push notifications for a polished UX.
+  - Integrated real-time messaging, voice calls, and geolocation services.
+  - Built an AI-powered chatbot for user support using Gemini API.
+  - Enhanced UX with custom animations and push notifications.
 
----
+### 🎵 [Music App Flutter](https://github.com/DinhVanMy/music_app_flutter_api)
+- **Description**: A music streaming app built with Flutter to deliver a smooth listening experience.
+- **Tech Stack**: Flutter, Dart, MVVP Architecture, API Integration
+- **Highlights**:
+  - Streamlined data retrieval with robust API calls.
+  - Optimized performance for faster load times and seamless playback.
+  
+### 🗺️ [Google Map Clone](https://github.com/DinhVanMy/google_map_app)
+- **Description**: A lightweight clone of Google Maps with basic navigation features.
+- **Tech Stack**: Flutter, C++
+- **Highlights**: 
+  - Implemented core mapping functionalities for learning purposes.
 
-## 📊 GitHub Stats
-![DinhVanMy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DinhVanMy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhVanMy&layout=compact&theme=radical)
-
----
-
-## 🌐 Find Me Online
-- [LinkedIn](https://www.linkedin.com/in/%C4%91inh-v%C4%83n-m%E1%BB%B9-2a588830b/)
-- [Facebook](https://www.facebook.com/profile.php?id=100040868506695&locale=vi_VN)
-- [GitHub](https://github.com/DinhVanMy)
-- **Phone**: +84 332 251 317
-
----
-
-## 💬 Let’s Connect!
-I’m excited to collaborate on innovative Flutter projects and contribute to meaningful solutions. Feel free to reach out to me via email or connect on social media!
+### 🩺 [HealthCare24-7 Application](https://github.com/DinhVanMy/HealthCare24-7Application)
+- **Description**: An Android health app developed in a group project.
+- **Tech Stack**: Java, Android SDK
+- **Highlights**: 
+  - Collaborated to build features for health tracking and user management.
